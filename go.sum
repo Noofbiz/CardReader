@@ -1,0 +1,4 @@
+github.com/Noofbiz/go-card v0.0.0-20240314193412-f61d4e0f5cc5 h1:8CWDPSrN7vEesLfHcOJyhmVH7UTaYAowhX1Jgf0nRN0=
+github.com/Noofbiz/go-card v0.0.0-20240314193412-f61d4e0f5cc5/go.mod h1:VobN1qIIel0Ankg2WeyFdSOxuy634pbZ+WaQL5wMOvc=
+github.com/google/gousb v1.1.3 h1:xt6M5TDsGSZ+rlomz5Si5Hmd/Fvbmo2YCJHN+yGaK4o=
+github.com/google/gousb v1.1.3/go.mod h1:GGWUkK0gAXDzxhwrzetW592aOmkkqSGcj5KLEgmCVUg=
